@@ -1,8 +1,9 @@
-<h1 align="center"> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minhaj </br> 
+<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> I'm Minhaj </br> 
+</h1>
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
-==============================================================================================================================
+
 
 About Me
 -------
@@ -10,9 +11,9 @@ About Me
 I'm a Cybersecurity student currently living in kerala, India. I'm primarily focused on frontend development, site reliability and Cybersecurity.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://keagtorb.github.io/minhaj/)
+* 🖥️  See my portfolio at [My Portfolio](http://keagtorb.github.io/profile11/)
 * ✉️  You can contact me at [minhajmp@protonmail.com](mailto:minhajmp@protonmail.com )
-* 🚀  I'm currently working on [Kaptrit](http://kaptrit.com)
+* 🚀  I'm currently working in [Kaptrit](http://kaptrit.com)
 * 🧠  I'm learning Cybersecurity
 * 🤝  I'm open to collaborating on Interesting works
 * ⚡  Hacker by night human by day
