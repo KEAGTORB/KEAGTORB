@@ -45,5 +45,5 @@ I'm a Cybersecurity student currently living in kerala, India. I'm primarily foc
 
 ---
 <p align="center">
-<img src="https://github.com/keagtorb/keagtorb/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
