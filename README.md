@@ -40,6 +40,8 @@ I'm a Cybersecurity student currently living in kerala, India. I'm primarily foc
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keagtorb&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keagtorb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=keagtorb&theme=react-dark&hide_border=true&area=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=keagtorb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
