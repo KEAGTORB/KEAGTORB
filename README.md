@@ -50,8 +50,7 @@ I'm a Cybersecurity student currently living in kerala, India. I'm primarily foc
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+|![deno](https://raw.githubusercontent.com/keagtorb/keagtorb/main/Res/dino.gif)
 
 ### Thanks for Visiting my GitHub Profile!
 
@@ -59,3 +58,8 @@ I'm a Cybersecurity student currently living in kerala, India. I'm primarily foc
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
+
+
+
+
+
