@@ -1,4 +1,4 @@
-![](https://readme-typing-svg.herokuapp.com/?size=30&color=76ab97&center=true&vCenter=true&lines=>sudosu$~root)
+![](https://readme-typing-svg.herokuapp.com/?size=30&color=76ab97&center=true&vCenter=true&lines=>whoami$~root)
 <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> I'm Minhaj </br> 
 </h1>
 </h1>
