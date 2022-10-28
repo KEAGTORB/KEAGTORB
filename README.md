@@ -1,5 +1,5 @@
 ![](https://readme-typing-svg.herokuapp.com/?size=30&color=76ab97&center=true&vCenter=true&lines=>whoami$~root)
-<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> I'm Minhaj </br> 
+<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> I'm Kiyag </br> 
 </h1>
 </h1>
 <p align="center">I love creating new things ⚡</p>
@@ -9,11 +9,9 @@
 About Me
 -------
 
-I'm a Cybersecurity student currently living in kerala, India. I'm primarily focused on frontend development, site reliability and Cybersecurity.
-
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://keagtorb.github.io/profile11/)
-* ✉️  You can contact me at [minhajmp@protonmail.com](mailto:minhajmp@protonmail.com )
+* ✉️  You can contact me at [keagtorb@gmail.com](mailto:keagtorb@gmail.com )
 * 🚀  I'm currently working in [Kaptrit](http://kaptrit.com)
 * 🧠  I'm learning Cybersecurity
 * 🤝  I'm open to collaborating on Interesting works
