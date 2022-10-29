@@ -14,11 +14,11 @@
 About Me
 -------
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://keagtorb.github.io/profile11/)
+* 🌍  I'm from India
+* 🖥️  See my [ Portfolio](http://keagtorb.github.io/profile11/)
 * ✉️  You can contact me at [keagtorb@gmail.com](mailto:keagtorb@gmail.com )
-* 🚀  I'm currently working in [Kaptrit](http://kaptrit.com)
-* 🧠  I'm learning Cybersecurity
+* 🚀  I'm currently working in [kaptrit](http://kaptrit.com)
+* 🧠  I'm learning web3
 * 🤝  I'm open to collaborating on Interesting works
 * ⚡  Hacker by night human by day
 
