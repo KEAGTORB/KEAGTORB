@@ -1,4 +1,9 @@
-![](https://readme-typing-svg.herokuapp.com/?size=30&color=76ab97&center=true&vCenter=true&lines=>whoami$~root)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Bug+Hunter+%7C%7C+Web+developer+%7C%7C+Game+Enthusiastic;Html+%7C%7C+Css+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="keagtorb">
+</p>
+<hr/>
+
+
 <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> I'm Kiyag </br> 
 </h1>
 </h1>
