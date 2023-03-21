@@ -1,6 +1,6 @@
 <p align="center">
   <b>🎨 Follow me here 🎨</b><br>  
-  <a href="https://t.me/kiyagtob79">Telegram</a> |
+  <a href="https://t.me/kiyagtorb79">Telegram</a> |
   <a href="https://github.com/kiyagtorb">Github</a><br><br>
   </p>
 
