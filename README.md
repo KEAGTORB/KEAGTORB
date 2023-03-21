@@ -1,7 +1,7 @@
 <p align="center">
   <b>🎨 Follow me here 🎨</b><br>  
-  <a href="https://t.me/kiyagtorb79">Telegram</a> |
-  <a href="https://github.com/kiyagtorb">Github</a><br><br>
+  <a href="https://t.me/keagtorb79">Telegram</a> |
+  <a href="https://github.com/keagtorb">Github</a><br><br>
   </p>
 
 ```bash
@@ -26,7 +26,7 @@ Languages  :  Python
 <hr>
 
 <p align="left">
-  <a href="https://plasmonix.github.io">
+  <a href="https://keagtorb.github.io">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=keagtorb&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=keagtob&theme=gruvbox&hide_border=true" />
   </a>
