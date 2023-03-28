@@ -26,7 +26,7 @@ Languages  :  Python
 <hr>
 
 <p align="left">
-  <a href="https://keagtorb.github.io/profile-11">
+  <a href="https://keagtorb.github.io/profile11">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=keagtorb&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=keagtob&theme=gruvbox&hide_border=true" />
   </a>
