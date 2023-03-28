@@ -5,7 +5,7 @@
   </p>
 
 ```bash
-> neofetch
+> Welcome to where ever you are
 ```
 
 <img src="https://github.com/KEAGTORB/KEAGTORB/blob/main/Res/meh.gif" align="left" alt="hehe" width="250" height="250">
@@ -26,7 +26,7 @@ Languages  :  Python
 <hr>
 
 <p align="left">
-  <a href="https://keagtorb.github.io">
+  <a href="https://keagtorb.github.io/profile-11">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=keagtorb&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=keagtob&theme=gruvbox&hide_border=true" />
   </a>
