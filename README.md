@@ -5,7 +5,7 @@
   </p>
 
 ```bash
-> Welcome to where ever you are
+> Nothing is impossible. The word itself says 'I'm possible
 ```
 
 <img src="https://github.com/KEAGTORB/KEAGTORB/blob/main/Res/meh.gif" align="left" alt="hehe" width="250" height="250">
@@ -26,9 +26,9 @@ Languages  :  Python
 <hr>
 
 <p align="left">
-  <a href="https://keagtorb.github.io/">
+  
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=keagtorb&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=keagtob&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=keagtorb&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 
