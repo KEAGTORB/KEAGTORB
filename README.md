@@ -1,35 +1,18 @@
-<p align="center">
-  <b>🎨 Follow me here 🎨</b><br>  
-  <a href="https://t.me/keagtorb79">Telegram</a> |
-  <a href="https://github.com/keagtorb">Github</a><br><br>
-  </p>
+###
 
-```bash
-> Nothing is impossible. The word itself says 'I'm possible
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keagtorb&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=keagtorb&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
+</div>
 
-<img src="https://github.com/KEAGTORB/KEAGTORB/blob/main/Res/meh.gif" align="left" alt="hehe" width="250" height="250">
+###
 
-```py
-kiyag@github
-----------------
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=keagtorb&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="100" alt="trophy graph"  />
+</div>
 
-       OS  :  Arch Linux
-       WM  :  i3-gaps
-    Shell  :  Bash
- Terminal  :  Terminator
-      CPU  :  I9
-    Alias  :  keagtorb
-    Infos  :  19yo English developer!
-Languages  :  Python
-```
-<hr>
+###
 
-<p align="left">
-  
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=keagtorb&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=keagtorb&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-
-<hr>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keagtorb&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
