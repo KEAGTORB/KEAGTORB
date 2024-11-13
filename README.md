@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saltX5&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=saltX5b&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=saltX5&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
 </div>
 
 ###
